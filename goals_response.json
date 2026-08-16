@@ -1,0 +1,35 @@
+[
+  {
+    "id": "507f1f77bcf86cd799439011",
+    "name": "Emergency Fund",
+    "targetAmount": 50000,
+    "targetDate": "2025-12-31T00:00:00Z",
+    "balance": 25000.50,
+    "created": "2024-01-15T10:30:00Z",
+    "transactionIds": [
+      "507f1f77bcf86cd799439012",
+      "507f1f77bcf86cd799439013"
+    ],
+    "tagIds": [
+      "507f1f77bcf86cd799439014"
+    ],
+    "userId": "507f1f77bcf86cd799439015",
+    "icon": "💰"
+  },
+  {
+    "id": "507f1f77bcf86cd799439016",
+    "name": "Vacation Fund",
+    "targetAmount": 100000,
+    "targetDate": "2025-06-30T00:00:00Z",
+    "balance": 45000.00,
+    "created": "2024-02-01T14:20:00Z",
+    "transactionIds": [
+      "507f1f77bcf86cd799439017"
+    ],
+    "tagIds": [
+      "507f1f77bcf86cd799439018"
+    ],
+    "userId": "507f1f77bcf86cd799439015",
+    "icon": "✈️"
+  }
+]
